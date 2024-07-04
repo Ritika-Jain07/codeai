@@ -1,10 +1,10 @@
-Run the Streamlit app from the command line:
-streamlit run app.py
-The Streamlit app will open in your default web browser.
-Enter customer feedback in the text area provided.
-The app will display the sentiment analysis results, including VADER sentiment class, VADER sentiment scores, TextBlob polarity, and TextBlob subjectivity.
-You can also enter text in the "Clean Text" input field to see the cleaned version of the text.
-The histogram will show the distribution of sentiment scores by class.
+1.Run the Streamlit app from the command line:
+  streamlit run app.py
+2.The Streamlit app will open in your default web browser.
+3.Enter customer feedback in the text area provided.
+4.The app will display the sentiment analysis results, including VADER sentiment class, VADER sentiment scores, TextBlob polarity, and TextBlob subjectivity.
+5.You can also enter text in the "Clean Text" input field to see the cleaned version of the text.
+6.The histogram will show the distribution of sentiment scores by class.
 The DataFrame will display the sentiment analysis results for the first 30 rows of the input data.
 
 SNAPSHOTS OF MY RUNNING PROJECT:
