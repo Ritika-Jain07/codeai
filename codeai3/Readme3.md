@@ -1,6 +1,3 @@
-
-# Book Recommendation System with CNN
-
 This project implements a book recommendation system using a Convolutional Neural Network (CNN) model. The system allows users to search for books based on keywords and displays relevant book information.
 
 ## Features
@@ -10,10 +7,6 @@ This project implements a book recommendation system using a Convolutional Neura
 - Displays book details such as title, author, average rating, ISBN, language, number of pages, ratings count, text reviews count, publication date, and publisher
 - Utilizes a CNN model for image classification (using the CIFAR-10 dataset) as a proof of concept
 
-## Prerequisites
-
-- Python 3.x
-- Required libraries: `pandas`, `tensorflow`, `keras`, `numpy`, `matplotlib`
 
 ## Installation
 
@@ -34,9 +27,6 @@ pip install pandas tensorflow keras numpy matplotlib
 4. The system will display the search results, including book titles, authors, average ratings, ISBNs, languages, number of pages, ratings count, text reviews count, publication dates, and publishers.
 5. The notebook also includes code to train and evaluate a CNN model using the CIFAR-10 dataset, which is not directly related to the book recommendation system but serves as a proof of concept for using CNN models.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create a new issue or submit a pull request.
 
 ## License
 
