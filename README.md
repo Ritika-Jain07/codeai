@@ -10,7 +10,7 @@ This repository contains a collection of machine learning and data analysis proj
 - **Features**:
   - Sentiment analysis using VADER and TextBlob
   - Analysis presented through a Streamlit web application
-- **Folder**: `sentiment-analysis-customer-feedback`
+- **Folder**: `codeai1`
 
 ### Using Advanced Excel and Power BI to Analyze Data
 
@@ -19,7 +19,7 @@ This repository contains a collection of machine learning and data analysis proj
   - Data cleaning
   - Data visualization
   - Extraction of insights from chat logs
-- **Folder**: `excel-powerbi-whatsapp-analysis`
+- **Folder**: `codeai2`
 
 ### Book Recommendation System
 
@@ -27,7 +27,7 @@ This repository contains a collection of machine learning and data analysis proj
 - **Features**:
   - Search for books based on keywords
   - Display relevant book information
-- **Folder**: `book-recommendation-system`
+- **Folder**: `codeai3`
 
 ### Diabetes Prediction and Analysis
 
@@ -36,7 +36,7 @@ This repository contains a collection of machine learning and data analysis proj
   - Data preprocessing
   - Exploratory data analysis
   - Development of predictive models
-- **Folder**: `diabetes-prediction-analysis`
+- **Folder**: `codeai4`
 
 ## Getting Started
 
